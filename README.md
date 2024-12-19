@@ -24,8 +24,7 @@ Este blog é uma vitrine de aprendizado contínuo, onde tópicos como SEO, perfo
 
 ### 🎯 **Triggers**  
 #### Fluxo de Geração de Conteúdo  
-![Fluxo de Geração de Conteúdo]()  
-*A partir do DatoCMS, os posts são gerenciados e automaticamente integrados ao blog, mantendo a consistência e escalabilidade.*  
+A partir do DatoCMS, os posts são gerenciados e automaticamente integrados ao blog, mantendo a consistência e escalabilidade.
 
 ### 💬 **Emotion**  
 O impacto do projeto foi sentido de forma imediata, com feedbacks positivos sobre o conteúdo e design, além de maior visibilidade no Google. Este blog é um marco no meu portfólio e um reflexo do meu compromisso com inovação.  
