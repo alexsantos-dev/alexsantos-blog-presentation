@@ -1,7 +1,7 @@
 # **Δlex Santos: Blog**  
 **Autenticidade, Consistência e Inovação**  
 
-![banner](https://github.com/alexsantos-dev/alexsantos-blog-presentation/edit/main/images/)
+![banner](https://github.com/alexsantos-dev/alexsantos-blog-presentation/blob/main/Screenshot_20241219_100105_Chrome.jpg)
 
 acesse: https://alexsantos-blog.vercel.app
 
