@@ -9,12 +9,12 @@ Bem-vindo ao repositório do meu blog pessoal, um espaço dedicado ao compartilh
 
 ---
 
-## 🎯 **Objetivo do Projeto**  
+## 🎯 **Objetivo**  
 Criar um blog pessoal de alta performance e com foco em SEO para melhorar a indexação e alcance de conteúdos no Google. Através desse projeto, explorei boas práticas de desenvolvimento, performance e otimização de SEO, consolidando aprendizados e entregando uma experiência imersiva e funcional para os leitores.
 
 ---
 
-## 🌟 **Destaques do Projeto**
+## 🌟 **Destaques**
 
 ### 💡 **Social Currency**  
 Este blog é uma vitrine de aprendizado contínuo, onde tópicos como SEO, performance, e usabilidade foram explorados para gerar valor tanto técnico quanto estratégico.  
